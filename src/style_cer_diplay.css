@@ -1,0 +1,286 @@
+.TA {
+    scrollbar-arrow-color: #666;
+    scrollbar-base-color: #fff;
+    scrollbar-darkshadow-color: #fff;
+    scrollbar-face-color: #edebeb;
+    scrollbar-highlight-color: #fff;
+    scrollbar-shadow-color: #666
+}
+
+body {
+    font-size: 62.5%;
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    background-color: #fff
+}
+
+#contenedor {
+    height: auto;
+    margin-left: 10px;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+    color: #000;
+    font-style: normal
+}
+
+h1 {
+    margin-left: 1em;
+    font-size: 1.3em;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #d2200a;
+    font-style: normal;
+    line-height: 1.2em;
+    font-weight: normal;
+    margin-right: .5em
+}
+
+h2 {
+    margin-left: 15px;
+    font-size: 1.2em;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #666;
+    font-style: normal;
+    font-weight: normal
+}
+
+h3 {
+    margin-left: 1em;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #666;
+    font-style: normal;
+    line-height: 1.2em;
+    font-weight: normal;
+    margin-right: .5em
+}
+
+h4 {
+    margin-left: 1em;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-style: normal;
+    line-height: 1.2em;
+    font-weight: normal;
+    margin-right: .5em
+}
+
+.caja_texto {
+    border-right: #ccc .1em solid;
+    border-top: #ccc 1px solid;
+    font-size: .8em;
+    border-left: #ccc 1px solid;
+    border-bottom: #ccc .1em solid;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 1.5em;
+    background-color: #fff
+}
+
+
+.titulo_rojo {
+    margin-left: 30px;
+    font-size: 1.3em;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #d2200a;
+    font-style: normal;
+    line-height: 1.2em;
+    font-weight: normal;
+    margin-right: .5em
+}
+
+.titulo_negro {
+    margin-left: 1em;
+    font-size: 1.1em;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-style: normal;
+    line-height: 1.2em;
+    font-weight: normal;
+    margin-right: .5em
+}
+
+.titulo_gris {
+    margin-left: 1em;
+    font-size: 1.3em;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #666;
+    font-style: normal;
+    line-height: 1.2em;
+    font-weight: normal;
+    margin-right: .5em
+}
+
+#fondo_caja {
+    background-color: #f2f2f2;
+    height: 25px;
+    margin-left: 1em;
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-style: normal;
+    line-height: 1.2em;
+    font-weight: normal;
+    margin-right: .5em
+}
+
+a.linkgris {
+    font-size: 1.1em;
+    color: #666;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: auto
+}
+
+a.linkgris:hover {
+    font-size: 1.1em;
+    color: #d2200a;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    line-height: auto
+}
+
+.celda_pijama_gris {
+    margin-left: 5px;
+    font-size: .8em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #666;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    text-align: center;
+    background-color: #f5f6f6
+}
+
+.celda_txto_negro {
+    margin-left: 5px;
+    font-size: .9em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    text-align: center
+}
+
+.celda_pijama_negro {
+    margin-left: 5px;
+    font-size: .9em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    text-align: center;
+    background-color: #f5f6f6
+}
+
+.cabe {
+    font: .8em;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c13333;
+    color: #fff
+}
+
+.rojo {
+    font: 10px Arial, Helvetica, sans-serif;
+    color: red;
+    background-color: #bfd8d8
+}
+
+.azul {
+    font: 10px Arial, Helvetica, sans-serif;
+    background-color: #bfd8d8
+}
+
+.cabecera2 {
+    font: 11pt arial;
+    background-color: #dedbdb;
+    color: black
+}
+
+.esta {
+    font: 10px Arial, Helvetica, sans-serif;
+    background-color: #fcc
+}
+
+.color1 {
+    font: .7em Arial, Helvetica, sans-serif;
+    background-color: #c0c0c0
+}
+
+.color2 {
+    font: .7em Arial, Helvetica, sans-serif;
+    background-color: #dedbdb
+}
+
+.color3 {
+    font: .7em Arial, Helvetica, sans-serif;
+    background-color: #e0e0e0
+}
+
+.rojo1 {
+    font: .7em Arial, Helvetica, sans-serif;
+    color: red;
+    background-color: #c0c0c0
+}
+
+.rojo2 {
+    font: .7em Arial, Helvetica, sans-serif;
+    color: red;
+    background-color: #c0c0c0
+}
+
+.rojo3 {
+    font: .7em Arial, Helvetica, sans-serif;
+    color: red;
+    background-color: #dedbdb
+}
+
+.rojo4 {
+    font: 1em Arial, Helvetica, sans-serif;
+    color: red
+}
+
+.gris {
+    font: .7em Arial, Helvetica, sans-serif;
+    background-color: #c0c0c0
+}
+
+.grismejor {
+    font: .7em Arial, Helvetica, sans-serif;
+    background-color: #c0c0c0;
+    color: yellow
+}
+
+.azulmejor {
+    font: .7em Arial, Helvetica, sans-serif;
+    background-color: #bfd8d8;
+    color: yellow
+}
+
+.griso {
+    font: .7em Arial, Helvetica, sans-serif;
+    background-color: #a8a8a8
+}
+
+#piePagina {
+    font-size: 14px;
+    margin-left: 2.5%
+}

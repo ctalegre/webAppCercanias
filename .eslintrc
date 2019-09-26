@@ -1,0 +1,21 @@
+{
+    "extends": [
+      "eslint:recommended",
+      "plugin:react/recommended",
+      "plugin:cypress/recommended",
+      "standard",
+      "react-app"
+    ],
+    "plugins": [
+      "react-hooks",
+      "cypress",
+      "chai-friendly"
+    ]
+    ,
+    "rules": {
+      "no-unused-expressions": 0,
+      "chai-friendly/no-unused-expressions": 2,
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn"
+    }
+  }
